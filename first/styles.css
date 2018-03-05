@@ -1,0 +1,83 @@
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height: 50%;
+    width: 100%;
+    background-color: none;
+}
+
+
+.box1 {
+    height: 40%;
+    width: 25%;
+    background-color: rgb(145, 11, 11);
+}
+
+.box2 {
+    height: 40%;
+    width: 25%;
+    background-color: rgba(0, 0, 255, 0.616);
+}
+
+.box3 {
+    height: 40%;
+    width: 25%;
+    background-color: gray;
+}
+
+.textBox {
+    margin: 5%;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.large-box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.boxL1 {
+    background-color: rgb(145, 11, 11);
+    height: 40%;
+    width:25%;
+}
+
+.boxL2 {
+    background-color: rgba(0, 0, 255, 0.616);
+    height: 40%;
+    width: 65%;
+}
+
+.footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 5%;
+}
+
+.boxF1 {
+    background-color: rgba(0, 0, 255, 0.616);
+    height: 15%;
+    width: 79%;
+}
+
+.boxF2 {
+    background-color: rgb(145, 11, 11);
+    height: 15%;
+    width: 3%;
+}
+
+.boxF3 {
+    background-color: grey;
+    height: 15%;
+    width: 15%;
+}
+
+.boxF4 {
+    background-color: rgb(145, 11, 11);
+    height: 15%;
+    width: 3%
+}
